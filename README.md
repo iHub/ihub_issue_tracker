@@ -1,4 +1,5 @@
-ihub_issue_tracker
+iHub Issue Tracker
 ==================
 
-ihub.co.ke Issue tracker
+Contains issues found on the iHub website ihub.co.ke and the progress made thus far in fixing the issues.
+
